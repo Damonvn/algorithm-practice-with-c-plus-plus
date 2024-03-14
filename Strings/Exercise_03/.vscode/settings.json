@@ -1,0 +1,22 @@
+{
+    "editor.formatOnSave": false,
+    "C_Cpp.errorSquiggles": "enabled",
+    // "C_Cpp.clang_format_fallbackStyle": "{ BasedOnStyle: Google, IndentWidth: 4, ColumnLimit: 0}",
+    // "[c]": {
+    //     "editor.defaultFormatter": "ms-vscode.cpptools"
+    //     //☝🏼 Select the MS extension as defaultFormatter
+    // },
+    // "[cpp]": {
+    //     "editor.defaultFormatter": "ms-vscode.cpptools"
+    // },
+    "files.associations": {
+        "__locale": "cpp",
+        "string": "cpp",
+        "iosfwd": "cpp",
+        "istream": "cpp",
+        "ostream": "cpp",
+        "set": "cpp",
+        "iostream": "cpp",
+        "vector": "cpp"
+    }
+}
