@@ -97,6 +97,6 @@ int main(){
 /* ========
 The algorithm's complexity is significantly reduced by limiting 
 the value of i (i ≤ s.length()/2) and limiting the value of j
-(j ≤ s.length()/2 & j ≤ 2*s.length()/3 + 5 - i).
+(j ≤ s.length()/2 && j ≤ 2*s.length()/3 + 5 - i).
 
 ======== */
